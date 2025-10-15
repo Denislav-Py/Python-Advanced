@@ -6,3 +6,7 @@ This repository contains solutions to problems tackled during the Programming Fu
 1. Lists as Stacks and Queues
 2. Tuples & Sets
 3. Multidimensional Lists
+4. Error Handling
+5. File Handling
+6. Modules
+7. Algorithms
